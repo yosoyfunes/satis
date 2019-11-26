@@ -1,4 +1,11 @@
-Satis Docker
+## get started
+
+```
+git clone https://github.com/yosoyfunes/satis.git
+cd satis
+```
+
+## satis build
 
 ```
 docker run --rm --init -it \
@@ -8,11 +15,16 @@ docker run --rm --init -it \
   composer/satis build satis.json docs
 ```
 
-
-Test local
+## test local
 
 ```
 docker run -d -ti -p 8080:80 --name satis -v $PWD/docs:/usr/share/nginx/html nginx
 ```
 
+## open browser
 
+```
+http://localhost:8080
+```
+
+![example](img/example.jpg)

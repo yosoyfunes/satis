@@ -1,6 +1,6 @@
 {
-  "name": "My Repository",
-  "homepage": "http://packages.example.org",
+  "name": "yosoyfunes.github.io/satis",
+  "homepage": "https://yosoyfunes.github.io/satis/index.html",
   "repositories": [
     { "type": "vcs", "url": "https://github.com/yosoyfunes/satis" }
   ],

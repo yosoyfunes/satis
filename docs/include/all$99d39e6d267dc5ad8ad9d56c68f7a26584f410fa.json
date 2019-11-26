@@ -8,15 +8,15 @@
                 "source": {
                     "type": "git",
                     "url": "https://github.com/yosoyfunes/satis.git",
-                    "reference": "6c22f2bf48c99533a1b5c1e9e9f29b63e5210e01"
+                    "reference": "f987278d2fa953dac5310099f4bb890ad391cb9f"
                 },
                 "dist": {
                     "type": "zip",
-                    "url": "https://api.github.com/repos/yosoyfunes/satis/zipball/6c22f2bf48c99533a1b5c1e9e9f29b63e5210e01",
-                    "reference": "6c22f2bf48c99533a1b5c1e9e9f29b63e5210e01",
+                    "url": "https://api.github.com/repos/yosoyfunes/satis/zipball/f987278d2fa953dac5310099f4bb890ad391cb9f",
+                    "reference": "f987278d2fa953dac5310099f4bb890ad391cb9f",
                     "shasum": ""
                 },
-                "time": "2019-11-26T19:09:56+00:00",
+                "time": "2019-11-26T19:11:18+00:00",
                 "type": "library",
                 "authors": [
                     {
