@@ -1,0 +1,35 @@
+{
+    "packages": {
+        "yosoyfunes/satis": {
+            "dev-master": {
+                "name": "yosoyfunes/satis",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/yosoyfunes/satis.git",
+                    "reference": "6c22f2bf48c99533a1b5c1e9e9f29b63e5210e01"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/yosoyfunes/satis/zipball/6c22f2bf48c99533a1b5c1e9e9f29b63e5210e01",
+                    "reference": "6c22f2bf48c99533a1b5c1e9e9f29b63e5210e01",
+                    "shasum": ""
+                },
+                "time": "2019-11-26T19:09:56+00:00",
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "Matias Anoniz",
+                        "email": "matiasanoniz@gmail.com"
+                    }
+                ],
+                "description": "Satis example with Docker",
+                "support": {
+                    "source": "https://github.com/yosoyfunes/satis/tree/master",
+                    "issues": "https://github.com/yosoyfunes/satis/issues"
+                }
+            }
+        }
+    }
+}
