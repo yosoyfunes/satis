@@ -1,0 +1,11 @@
+{
+    "name": "yosoyfunes/satis",
+    "description": "Satis example with Docker",
+    "authors": [
+        {
+            "name": "Matias Anoniz",
+            "email": "matiasanoniz@gmail.com"
+        }
+    ],
+    "require": {}
+}
